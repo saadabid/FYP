@@ -1,0 +1,9 @@
+{
+  "name": "Product-Form",
+  "version": "1.0.0",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.13.4",
+    "mysql": "^2.15.0"
+  }
+}
